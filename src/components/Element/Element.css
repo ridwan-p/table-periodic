@@ -1,0 +1,72 @@
+.element {
+  position: absolute;
+  font-size: 10px;
+  color:#333;
+  background-color: #eaeaea;
+}
+.element .element-container {
+  padding: 5px;
+  display: flex;
+  height: -webkit-fill-available;
+  width: -webkit-fill-available;
+  flex-direction: column;
+}
+.element .element-nomor {
+  text-align: left;
+}
+.element .element-massa {
+  text-align: right;
+  margin-left: auto;
+}
+.element .element-symbol {
+  font-size: 27px;
+  flex: 1;
+}
+.element .element-name {
+  font-size: 12px;
+}
+.element.element-1 {
+  background-color: #db80b5;
+  color:#333;
+}
+.element.element-2 {
+  background-color: #f48584;
+  color:#333;
+}
+.element.element-3 {
+  background-color: #f7b476;
+  color:#333;
+}
+.element.element-4 {
+  background-color: #ccbfde;
+  color:#333;
+}
+.element.element-5 {
+  background-color: #f9c7dd;
+  color:#333;
+}
+.element.element-6 {
+  background-color: #cee07b;
+  color:#333;
+}
+.element.element-7 {
+  background-color: #a0d6be;
+  color:#333;
+}
+.element.element-8 {
+  background-color: #ccbfde;
+  color:#333;
+}
+.element.element-9 {
+  background-color: #96d9eb;
+  color:#333;
+}
+.element.element-10 {
+  background-color: #f48584;
+  color:#333;
+}
+.element.element-11 {
+  background-color: #faf59c;
+  color:#333;
+}
+
